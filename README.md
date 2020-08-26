@@ -1,4 +1,4 @@
-To View Project go to [Invictus React](https://abhisanghimire.github.io/invictus_react/)
+To View Project =>[Invictus React](https://abhisanghimire.github.io/invictus_react/)
 
 To run this application download the code and run `npm install` in terminal
 
