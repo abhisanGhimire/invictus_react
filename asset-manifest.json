@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/invictus_react/static/css/main.02528dba.chunk.css",
+    "main.js": "/invictus_react/static/js/main.bc69289d.chunk.js",
+    "main.js.map": "/invictus_react/static/js/main.bc69289d.chunk.js.map",
+    "runtime-main.js": "/invictus_react/static/js/runtime-main.045842cf.js",
+    "runtime-main.js.map": "/invictus_react/static/js/runtime-main.045842cf.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/invictus_react/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.28d30c3d.chunk.js": "/invictus_react/static/js/2.28d30c3d.chunk.js",
+    "static/js/2.28d30c3d.chunk.js.map": "/invictus_react/static/js/2.28d30c3d.chunk.js.map",
+    "index.html": "/invictus_react/index.html",
+    "precache-manifest.efbaeccaf6783daae8e19f8c80fc33bb.js": "/invictus_react/precache-manifest.efbaeccaf6783daae8e19f8c80fc33bb.js",
+    "service-worker.js": "/invictus_react/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/invictus_react/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.02528dba.chunk.css.map": "/invictus_react/static/css/main.02528dba.chunk.css.map",
+    "static/js/2.28d30c3d.chunk.js.LICENSE.txt": "/invictus_react/static/js/2.28d30c3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.045842cf.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.28d30c3d.chunk.js",
+    "static/css/main.02528dba.chunk.css",
+    "static/js/main.bc69289d.chunk.js"
+  ]
+}
